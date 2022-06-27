@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32414.318
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Implement_Swagger_UI", "Implement_Swagger_UI.csproj", "{158C1F46-3DD3-48E7-BE22-00FD5A11F59E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Implement_Swagger_UI", "api\Implement_Swagger_UI.csproj", "{EC40F48D-C213-4C03-9743-F10749C86C8D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{158C1F46-3DD3-48E7-BE22-00FD5A11F59E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{158C1F46-3DD3-48E7-BE22-00FD5A11F59E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{158C1F46-3DD3-48E7-BE22-00FD5A11F59E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{158C1F46-3DD3-48E7-BE22-00FD5A11F59E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC40F48D-C213-4C03-9743-F10749C86C8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC40F48D-C213-4C03-9743-F10749C86C8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC40F48D-C213-4C03-9743-F10749C86C8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC40F48D-C213-4C03-9743-F10749C86C8D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {C6AEC9DD-5A66-4EB6-A4FB-8AD4DD1E0026}
+		SolutionGuid = {1048F9F1-D80B-4957-9045-D5B4968C98E0}
 	EndGlobalSection
 EndGlobal
