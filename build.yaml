@@ -1,0 +1,6 @@
+version: v1.1.0
+	steps:
+	  - build: -t $Registry/aspnet-app:$ID -t $Registry/aspnet-app:latest -f Dockerfile .
+	  - push:
+		- $Registry/aspnet-app:$ID
+		- $Registry/aspnet-app:latest
