@@ -18,5 +18,12 @@ namespace Implement_Swagger_UI.Controllers
         {
             return "This is Just an Demo";
         }
+
+        [Route("Test_Swagger1")]
+        [HttpGet]
+        public async Task<string> TestSwagger1()
+        {
+            return "This is Just an Demo";
+        }
     }
 }
